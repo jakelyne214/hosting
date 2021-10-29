@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title>Juan Ronaldo Gutierrez Jimenez</title>
     </head>
-    <body bgcolor="#21618C"  background="C:\xampp\htdocs\paginaweb\multimedia\sol.gif">
+    <body bgcolor="#21618C"  background="hosting/multimedia/Logo.png\sol.gif">
        <center> <table bgcolor= "#979A9A" width=”100%” cellspacing=”0″ cellpadding=”5″>
         <td> <img src=" C:\xampp\htdocs\paginaweb\multimedia\poor.png"/> </td>
         </table></center>
